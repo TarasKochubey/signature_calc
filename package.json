@@ -1,0 +1,21 @@
+{
+  "name": "hpp_signature_calc",
+  "version": "1.0.0",
+  "description": "SDK for signature calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarasKochubey/signature_calc.git"
+  },
+  "keywords": [
+    "sdk",
+    "signature",
+    "crypto",
+    "npm"
+  ],
+  "author": "KTV",
+  "license": "MIT"
+}
